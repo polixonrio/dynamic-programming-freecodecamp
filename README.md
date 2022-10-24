@@ -1,4 +1,4 @@
-# dynamic-programming-freecodecamp
+# Dynamic Programming Freecodecamp
 Documenting my study through the dynamic programming course on freecodecamp
 
 https://youtu.be/oBt53YbR9Kk
